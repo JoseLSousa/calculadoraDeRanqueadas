@@ -1,6 +1,3 @@
-let vitorias = 0;
-let derrotas = 0;
-
 function teste(vitorias, derrotas) {
     let saldoVitorias = vitorias - derrotas;
     let nivel = "";
